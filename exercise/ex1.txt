@@ -1,0 +1,7 @@
+port = 8080
+hosst = localhost
+debug = truee
+timeout = 30
+retries = 3
+retries = 3
+loglevel = warning
